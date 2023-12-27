@@ -1,0 +1,13 @@
+:root {
+  --main-color: #1b91f5;
+  --bg-color: linear-gradient(
+    45deg,
+    #282a37 0%,
+    #282a37f3 50%,
+    transparent 100%
+  );
+  --input-bg: #333645;
+  --input-focus-bg: #3d3f4b;
+  --font-family: "Poppins", sans-serif;
+  --text-color: #fff;
+}
